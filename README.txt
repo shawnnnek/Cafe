@@ -14,7 +14,7 @@ Replace the member labels above with your group members' names and update roles 
 Pages: index.html, menu.html, story.html, contact.html
 Stylesheet: style.css
 Artwork: original SVG illustrations in project root
-Media: cafe-ambience.wav (original short soundscape)
+Media: cafe ambience by Marble Toast, CC0, streamed from Wikimedia Commons (source linked on homepage)
 
 Demo plan (5-7 minutes):
 1. Introduce The Midnight and the raven identity.
@@ -24,4 +24,5 @@ Demo plan (5-7 minutes):
 5. Each member explains their contribution for at least 30 seconds.
 
 Note: The contact form uses a mailto action; replace the example address if your group chooses a real inbox. Remote cafe photography on story.html needs internet access.
+
 
