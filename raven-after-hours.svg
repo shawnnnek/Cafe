@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+<title id="title">Raven perched over a midnight cafe</title><desc id="desc">A black raven with a subtle violet sheen rests on a branch beneath a muted brass moon, against a deep aubergine night sky.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#160d1d"/><stop offset=".58" stop-color="#30203a"/><stop offset="1" stop-color="#17111b"/></linearGradient><radialGradient id="moon"><stop stop-color="#e6c98f"/><stop offset="1" stop-color="#a97842"/></radialGradient><linearGradient id="feather" x2="1" y2="1"><stop stop-color="#120e16"/><stop offset=".55" stop-color="#27202f"/><stop offset="1" stop-color="#574065"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#sky)"/><circle cx="590" cy="235" r="112" fill="url(#moon)" opacity=".9"/><circle cx="590" cy="235" r="139" fill="none" stroke="#c59b5f" opacity=".23"/>
+<g fill="#e9d6b2" opacity=".65"><circle cx="105" cy="142" r="2"/><circle cx="248" cy="231" r="2"/><circle cx="700" cy="399" r="2"/><circle cx="120" cy="494" r="2"/><circle cx="450" cy="120" r="2"/><circle cx="690" cy="112" r="2"/></g>
+<path d="M0 806 Q150 770 280 818 T560 799 T800 814 V1000H0Z" fill="#18121d"/><path d="M-30 756 Q220 729 430 760 T830 735" fill="none" stroke="#6b4c70" stroke-width="18"/><path d="M183 766q31-81 64-126m-20 46q-49-9-77-39m94 5q45-20 72-60m-35 79q49 0 76-24" fill="none" stroke="#765977" stroke-width="9" stroke-linecap="round"/>
+<!-- Raven silhouette -->
+<path d="M272 668 Q237 617 262 548 Q280 497 339 477 Q380 463 406 424 Q423 397 417 369 Q455 386 470 419 Q489 462 460 502 Q499 515 527 546 Q563 585 549 628 L637 662 L548 677 Q517 727 449 737 Q385 747 333 715 L269 747 L295 699Z" fill="url(#feather)" stroke="#8e7392" stroke-width="5"/>
+<path d="M396 492 Q432 520 447 560 Q461 608 437 685 Q407 647 375 622 Q347 600 314 592 Q349 574 362 545 Q374 519 396 492Z" fill="#17121d" stroke="#60496a" stroke-width="4"/>
+<path d="M419 382 Q462 377 490 399 L548 418 L488 433 Q465 454 444 458 Q455 424 419 382Z" fill="#17121d" stroke="#8e7392" stroke-width="4"/><circle cx="449" cy="418" r="8" fill="#c59b5f"/><circle cx="451" cy="418" r="3" fill="#160d1d"/>
+<path d="M380 715q-10 32-2 53m53-40q8 21 5 40m-66-1-25 10m92-10 25 10" fill="none" stroke="#c59b5f" stroke-width="7" stroke-linecap="round"/>
+<path d="M71 914H729" stroke="#c59b5f" opacity=".6"/><text x="72" y="952" fill="#e9d6b2" font-family="Georgia,serif" font-size="21" letter-spacing="5">THE MIDNIGHT · AFTER HOURS</text>
+</svg>
+
