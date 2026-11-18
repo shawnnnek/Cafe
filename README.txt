@@ -14,12 +14,12 @@ Replace the member labels above with your group members' names and update roles 
 Pages: index.html, menu.html, story.html, contact.html
 Stylesheet: style.css
 Artwork: original SVG illustrations in project root
-Media: latte-making-animation.mp4, original low-poly 3D game-style latte preparation animation
+Media: latte-making-animation.mp4 (poster: latte-making-poster.jpg), original 18-second animation of a barista making a latte
 
 Demo plan (5-7 minutes):
 1. Introduce The Midnight and the raven identity.
 2. Walk through the four pages and responsive layout.
-3. Show the illustrated menu and audio player.
+3. Show the illustrated menu and play the latte-making video.
 4. Demonstrate the contact form and required fields.
 5. Each member explains their contribution for at least 30 seconds.
 
